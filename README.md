@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **g.r.van.gerven@gmail.com**
 
-- ⚡ Fun fact **I was a firefighting commander in Singapore prior to starting my Bachelor's study**
+- ⚡ Fun fact: **I was a firefighting commander in Singapore prior to starting my Bachelor's study**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
