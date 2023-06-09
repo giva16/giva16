@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning **React, Redux, and jQuery**
 
-- 👨‍💻 All of my projects are available at [https://giva16.github.io/](https://giva16.github.io/)
+- 👨‍💻 All of my projects are available at: [https://giva16.github.io/](https://giva16.github.io/)
 
-- 💬 Ask me about **Data Structures and Algorithms, JavaScript, Python, C, Scala, Java, Object Oriented Programming, Functional Programming, and Responsive Web Development**
+- 💬 Ask me about: **Data Structures and Algorithms, JavaScript, Python, C, Scala, Java, Object Oriented Programming, Functional Programming, and Responsive Web Development**
 
-- 📫 How to reach me **g.r.van.gerven@gmail.com**
+- 📫 How to reach me: **g.r.van.gerven@gmail.com**
 
 - ⚡ Fun fact **I was a firefighting commander in Singapore prior to starting my Bachelor's study**
 
