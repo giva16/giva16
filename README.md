@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+##Hello, I'm Gil 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giva16&label=Profile%20views&color=0e75b6&style=flat" alt="giva16" /> </p>
 
