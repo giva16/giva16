@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at: [https://giva16.github.io/](https://giva16.github.io/)
 
-- 💬 Ask me about: **Data Structures and Algorithms, JavaScript, Python, C, Scala, Java, Object Oriented Programming, Functional Programming, and Responsive Web Development**
+- 💬 Ask me about: **Data Structures and Algorithms, Front-end Web Development, Back-End Web Development, Full-Stack Web Development, Software Development, RESTful API, Object-Oriented Programming, Functional Programming**
 
 - 📫 How to reach me: **g.r.van.gerven@gmail.com**
 
