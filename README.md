@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giva16&label=Profile%20views&color=0e75b6&style=flat" alt="giva16" /> </p>
 
-- 🌱 I’m currently learning **React, Redux, and jQuery**
+- 🌱 I’m currently learning **React, NodeJS, MongoDB, Mongoose, ExpressJS, Modern JavaScript**
 
 - 👨‍💻 All of my projects are available at: [https://giva16.github.io/](https://giva16.github.io/)
 
