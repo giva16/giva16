@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giva16&label=Profile%20views&color=0e75b6&style=flat" alt="giva16" /> </p>
 
-- 🌱 I’m currently learning **React, NodeJS, MongoDB, Mongoose, ExpressJS, Modern JavaScript**
+- 🌱 I’m currently learning **React, NodeJS, MongoDB, Mongoose, ExpressJS**
 
 - 👨‍💻 All of my projects are available at: [https://giva16.github.io/](https://giva16.github.io/)
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **g.r.van.gerven@gmail.com**
 
-- ⚡ Fun fact: **I was a firefighting commander in Singapore prior to starting my Bachelor's study**
+- ⚡ Fun fact: **I was a firefighting instructor in Singapore prior to starting my Bachelor's study**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
